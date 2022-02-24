@@ -1,6 +1,7 @@
 #Script V3
 #Auto Re-Active X-RDP On Google Colab
 #Created by: Bintang Zaquine
+
 echo "Progress Starting....."
 nohup ./ngrok tcp --region ap 3389 &>/dev/null &
 sudo apt install lxde > /dev/null 2>&1
@@ -18,5 +19,6 @@ echo "Password: zaquine"
 echo "______________________"
 echo ""
 echo ""
-echo "NOTE: Don't close this tab to keep your RDP still running..."
+echo "NOTE:"
+echo "- Don't close this tab to keep your RDP still running..."
 sleep 9999999999

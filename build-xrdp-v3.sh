@@ -4,7 +4,7 @@
 #Chrome Installed
 #Created by: Bintang Zaquine
 
-rm -fr google-xrdp-v2.sh
+rm -fr google-xrdp-v3.sh
 echo "---USE STABIL CONNECTION DURING INSTALATION---"
 echo ""
 echo "Progress Runing...Please Wait for 5 minute..."

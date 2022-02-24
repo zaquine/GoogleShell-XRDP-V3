@@ -40,5 +40,6 @@ echo "Password: zaquine"
 echo "______________________"
 echo ""
 echo ""
-echo "NOTE: Don't close this tab to keep your RDP still running..."
+echo "NOTE:"
+echo "- Don't close this tab to keep your X-RDP still running..."
 sleep 9999999999

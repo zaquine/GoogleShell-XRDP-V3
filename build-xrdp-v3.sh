@@ -30,7 +30,6 @@ echo "Info: INSTALLING CHROME SUCCESS"
 echo ""
 echo "Info: FINISHING PROGRESS......."
 sudo service xrdp start > /dev/null 2>&1
-sudo clear
 echo "______________________"
 echo "   YOUR X-RDP INFO"
 echo "______________________"

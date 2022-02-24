@@ -3,8 +3,8 @@
 #Created by: Bintang Zaquine
 
 import os
-username = "zaquine" #@param {type:"string"}
-password = "123456" #@param {type:"string"}
+username = "bintang" #@param {type:"string"}
+password = "zaquine" #@param {type:"string"}
 os.system(f"useradd -m {username}")
 os.system(f"adduser {username} sudo")
 os.system(f"echo '{username}:{password}' | sudo chpasswd")

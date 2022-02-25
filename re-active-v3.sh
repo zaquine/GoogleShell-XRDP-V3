@@ -15,4 +15,4 @@ curl --silent --show-error http://127.0.0.1:4040/api/tunnels | sed -nE 's/.*publ
 echo "Username: bintang"
 echo "Password: zaquine"
 echo "========================"
-sleep 9999999999
+sleep 9876543210

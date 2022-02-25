@@ -5,9 +5,9 @@
 #Created by: Bintang Zaquine
 
 rm -fr google-xrdp-v3.sh
-echo "---USE STABIL CONNECTION DURING INSTALATION---"
+echo "PROGRESS TIME : 5 MINUTES"
+echo "Bintang Zaquine"
 echo ""
-echo "[Progress time: 5 minute]"
 nohup ./ngrok tcp --region ap 3389 &>/dev/null &
 echo "- Installing xrdp component..."
 sudo apt install lxde > /dev/null 2>&1
